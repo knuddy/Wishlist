@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">knuddj1wishlist</string>
+    <string name="product_additional_notes_text">Notes complémentaires</string>
+    <string name="toolbar_wish_text">Souhait</string>
+    <string name="toolbar_list_text">" liste"</string>
+    <string name="warning_fragment_confirm_text">Confirmer</string>
+    <string name="item_date_added_text">" Ajouté le:"</string>
+    <string name="warning_fragment_main_text">Êtes-vous sûr de vouloir continuer?</string>
+    <string name="warning_fragment_cancel_text">Annuler</string>
+    <string name="warning_fragment_header_text">Confirmation</string>
+    <string name="progress_bar_text">S\'il vous plaît, attendez</string>
+    <string name="new_item_purchased_text">Acheté</string>
+    <string name="menu_exit_text">Sortie</string>
+    <string name="menu_privacy_policy_text">Politique de confidentialité</string>
+    <string name="privacy_policy_fragment_btn_text">Rejeter</string>
+    <string name="main_wishlist_total_text">Coût total</string>
+    <string name="settings_title_text">Réglages</string>
+    <string name="setting_currency_unit_text">Unité monétaire</string>
+    <string name="menu_settings_text">Réglages</string>
+    <string name="settings_notifications_text">Notifications</string>
+    <string name="radio_btn_newest_text">Le plus récent</string>
+    <string name="radio_btn_alphabetical_text">Alphabétique</string>
+    <string name="radio_btn_oldest_text">Le plus ancien</string>
+</resources>

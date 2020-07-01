@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">knuddj1wishlist</string>
+    <string-array name="countryUnits">
+        <item>EUR</item>
+        <item>NZD</item>
+        <item>USD</item>
+    </string-array>
+    <string name="sharedPrefCCKey" translatable="false">CC</string>
+    <string name="sharedPrefCCDefault" translatable="false">NZD</string>
+    <string name="sharedPrefNotifKey" translatable="false">NOTIF</string>
+    <string name="privacy_policy_url" translatable="false">https://sites.google.com/view/knuddj1-privacy-policy</string>
+    <string name="product_additional_notes_text">Additional Notes</string>
+    <string name="toolbar_wish_text">Wish</string>
+    <string name="toolbar_list_text">List</string>
+    <string name="item_date_added_text">Added on:</string>
+    <string name="warning_fragment_confirm_text">Confirm</string>
+    <string name="warning_fragment_main_text">Are you sure you wish to continue?</string>
+    <string name="warning_fragment_cancel_text">Cancel</string>
+    <string name="warning_fragment_header_text">Confirmation</string>
+    <string name="progress_bar_text">Please Wait</string>
+    <string name="new_item_purchased_text">Purchased</string>
+    <string name="menu_exit_text">Exit</string>
+    <string name="menu_privacy_policy_text">Privacy Policy</string>
+    <string name="privacy_policy_fragment_btn_text">Dismiss</string>
+    <string name="main_wishlist_total_text">Total Cost</string>
+    <string name="settings_title_text">Settings</string>
+    <string name="setting_currency_unit_text">Currency Unit</string>
+    <string name="menu_settings_text">Settings</string>
+    <string name="settings_notifications_text">Notifications</string>
+    <string name="radio_btn_newest_text">Newest</string>
+    <string name="radio_btn_alphabetical_text">Alphabetical</string>
+    <string name="radio_btn_oldest_text">Oldest</string>
+</resources>

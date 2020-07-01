@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="richBlack">#001021</color>
+    <color name="warmBlack">#034748</color>
+    <color name="blueNCS">#1481BA</color>
+    <color name="cyanProcess">#11B5E4</color>
+    <color name="ceruleanCrayola">#0CAADC</color>
+    <color name="red_orange">#FF4800</color>
+    <color name="international_orange">#FF5400</color>
+    <color name="orange_pantone">#FF6000</color>
+    <color name="blaze_orange">#FF6D00</color>
+    <color name="safety_orange">#FF7900</color>
+    <color name="amber">#FF8500</color>
+    <color name="yellow_orange">#FF9100</color>
+    <color name="orange_peel">#FF9E00</color>
+    <color name="chrome_yellow">#FFAA00</color>
+    <color name="chinese_yellow">#FFB600</color>
+    <color name="not_purchased">#e43f5a</color>
+    <color name="purchased">#79d70f</color>
+    <color name="dark_purple">#421b9b</color>
+    <color name="lighter_purple">#421b8e</color>
+    <color name="light_gold_yellow">#ffc15e</color>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dark_purple</item>
+        <item name="colorPrimaryDark">@color/chinese_yellow</item>
+        <item name="colorAccent">@color/chinese_yellow</item>
+        <item name="android:windowBackground">@color/dark_purple</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="android:colorControlNormal">@android:color/white</item>
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>
+    </style>
+
+    <style name="MyDropDownListView" parent="android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:background">@color/light_gold_yellow</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+</resources>

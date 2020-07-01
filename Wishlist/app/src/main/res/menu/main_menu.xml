@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+    <item
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        android:title=""
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/action_exit"
+                android:icon="@drawable/ic_close_white_36dp"
+                android:title="@string/menu_exit_text"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/action_privacy_policy"
+                android:icon="@drawable/ic_lock_white_36dp"
+                android:title="@string/menu_privacy_policy_text"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/action_settings"
+                android:icon="@drawable/ic_settings_black_36dp"
+                android:title="@string/menu_settings_text"
+                app:showAsAction="ifRoom"/>
+        </menu>
+    </item>
+</menu>
